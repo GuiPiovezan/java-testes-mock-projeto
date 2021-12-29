@@ -31,5 +31,3 @@ build/
 
 ### VS Code ###
 .vscode/
-
-/src/test/java/br/com/alura/leilao/service/FinalizarLeilaoServiceTest.java
